@@ -5,7 +5,7 @@
 
 `pip install rdk`
 
-2.  **Erstellen einer Custom Rule**
+2.  **Erstellen einer Custom Rule; create legt drei Dateien an: Regeldatei, Unittest Datei, Parameters.json Datei**
 
 -  Für periodische Prüfung: `rdk create RULE_NAME --maximum-frequency TwentyFour_Hours`
 -  Für spezifische Ressourcentypen: `rdk create RULE_NAME --resource-types RESOURCE_TYPE`
