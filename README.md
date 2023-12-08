@@ -12,7 +12,7 @@
 
 3.  **Regellogik implementieren**
 
-**Bearbeiten der rule_name.py Datei mit der gewünschten Logik, in beliebiger Programmiersprache und IDE.**
+*Bearbeiten der rule_name.py Datei mit der gewünschten Logik, in beliebiger Programmiersprache und IDE.*
 
 4.  **Deployment der Regel**
 
@@ -20,4 +20,4 @@
 
 5.  **Konfiguration in AWS Config**
 
-**Automatische Anlage der Lambda Funktion, IAM-Rolle, Config Rule und CloudWatch Protokollgruppe.**
+*Automatische Anlage der Lambda Funktion, IAM-Rolle, Config Rule und CloudWatch Protokollgruppe.*
